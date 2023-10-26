@@ -47,7 +47,20 @@
             input {
                 border: 0;
                 border-bottom: 1px solid $dc_primary;
+                padding: 0;
+            }
 
+            button {
+                border: 0;
+                border-bottom: 1px solid $dc_primary;
+                border-radius: 0;
+                padding: 0;
+                background-color: transparent;
+
+                i {
+                    line-height: 100%;
+                    color: $dc_dark_soft;
+                }
             }
         }
     }

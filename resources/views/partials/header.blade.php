@@ -26,8 +26,9 @@
                     <a class="nav-item nav-link">shop</a>
 
                 </div>
-                <form action="" class="ms-3">
+                <form action="" class="d-flex ms-3">
                     <input type="search" placeholder="SEARCH" class="text-end">
+                    <button><i class="fa-solid fa-magnifying-glass"></i></button>
                 </form>
             </div>
 
