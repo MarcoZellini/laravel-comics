@@ -1,0 +1,54 @@
+@use './variables' as *;
+
+#app_header {
+    background-color: $dc_light;
+    font-size: .8rem;
+
+    .header_top {
+        background-color: $dc_primary;
+
+        span {
+            color: $dc_light;
+
+            small {
+                font-size: .5rem;
+            }
+
+            .fa-sort-down {
+                vertical-align: text-bottom;
+            }
+        }
+    }
+
+
+
+    .navbar-brand {
+
+        img {
+            width: 80%;
+        }
+    }
+
+    .nav_body {
+        a.nav-item {
+            text-transform: uppercase;
+            padding: 3rem .5rem;
+            font-size: .8rem;
+            color: $dc_dark_soft;
+
+            &.active {
+                color: $dc_primary;
+                border-bottom: 5px solid $dc_primary;
+            }
+
+        }
+
+        form {
+            input {
+                border: 0;
+                border-bottom: 1px solid $dc_primary;
+
+            }
+        }
+    }
+}
