@@ -1,0 +1,35 @@
+@use './variables' as *;
+
+#footer_top {
+    background-image: url(~resources/img/footer-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 0;
+
+    #useful_links {
+        .col-4 {
+            ul.list-unstyled {
+                h5 {
+                    font-size: 15px;
+                }
+
+                li a {
+                    font-size: 10px;
+                }
+            }
+        }
+    }
+}
+
+#footer_bottom {
+    background-color: $dc_dark_soft;
+    position: relative;
+    z-index: 10;
+    color: $dc_light;
+
+    .social {
+        color: $dc_primary;
+        text-transform: uppercase;
+    }
+}
