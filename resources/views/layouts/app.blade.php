@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/svg+xml" href="../../img/favicon.ico" />
+    <link rel="icon" type="image/svg+xml" href="{{Vite::asset('resources/img/favicon.ico')}}" />
     <title>DC Comics - @yield('page-title', 'Welcome')</title>
 
     <!-- Fonts -->

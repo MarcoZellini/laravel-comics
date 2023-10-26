@@ -11,26 +11,37 @@
                             <div class="col">
                                 <ul class="list-unstyled">
                                     <h5 class="text-uppercase">DC Comics</h5>
-                                    <li><a href="" class="text-decoration-none text-light">Lorem.</a>
-                                        <!-- /.text-decoration-none text-light --></li>
-                                    <li><a href="" class="text-decoration-none text-light">Error?</a>
-                                        <!-- /.text-decoration-none text-light --></li>
-                                    <li><a href="" class="text-decoration-none text-light">Maiores.</a>
-                                        <!-- /.text-decoration-none text-light --></li>
-                                    <li><a href="" class="text-decoration-none text-light">Doloribus.</a>
-                                        <!-- /.text-decoration-none text-light --></li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">characters</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Comics</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Movies</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Tv</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Games</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Videos</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">News</a>
+                                    </li>
                                 </ul>
                                 <!-- /.list-unstyled -->
-                                <ul class="list-unstyled">
+                                <ul class="list-unstyled mt-5">
                                     <h5 class="text-uppercase">Shop</h5>
-                                    <li><a href="" class="text-decoration-none text-light">Lorem.</a>
-                                        <!-- /.text-decoration-none text-light --></li>
-                                    <li><a href="" class="text-decoration-none text-light">Eos.</a>
-                                        <!-- /.text-decoration-none text-light --></li>
-                                    <li><a href="" class="text-decoration-none text-light">Inventore!</a>
-                                        <!-- /.text-decoration-none text-light --></li>
-                                    <li><a href="" class="text-decoration-none text-light">Expedita!</a>
-                                        <!-- /.text-decoration-none text-light --></li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Shop DC</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Shop DC Collectibles</a>
+                                    </li>
                                 </ul>
                                 <!-- /.list-unstyled -->
                             </div>
@@ -39,28 +50,60 @@
                             <div class="col">
                                 <ul class="list-unstyled">
                                     <h5 class="text-uppercase">DC</h5>
-                                    <li><a href="" class="text-decoration-none text-light">Lorem.</a>
-                                        <!-- /.text-decoration-none text-light --></li>
-                                    <li><a href="" class="text-decoration-none text-light">Ipsam?</a>
-                                        <!-- /.text-decoration-none text-light --></li>
-                                    <li><a href="" class="text-decoration-none text-light">Beatae?</a>
-                                        <!-- /.text-decoration-none text-light --></li>
-                                    <li><a href="" class="text-decoration-none text-light">Modi?</a>
-                                        <!-- /.text-decoration-none text-light --></li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Terms Of Use</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Privacy Polici</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Ad Choises</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Advertising</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Jobs</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Subscriptions</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Talent Workshops</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">CPSC Certificates</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Ratings</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Shop Help</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">Contacts Us</a>
+                                    </li>
                                 </ul>
                                 <!-- /.list-unstyled -->
                             </div>
                             <div class="col">
                                 <ul class="list-unstyled">
                                     <h5 class="text-uppercase">Sites</h5>
-                                    <li><a href="" class="text-decoration-none text-light">Lorem.</a>
-                                        <!-- /.text-decoration-none text-light --></li>
-                                    <li><a href="" class="text-decoration-none text-light">Repudiandae?</a>
-                                        <!-- /.text-decoration-none text-light --></li>
-                                    <li><a href="" class="text-decoration-none text-light">Ratione.</a>
-                                        <!-- /.text-decoration-none text-light --></li>
-                                    <li><a href="" class="text-decoration-none text-light">Nam!</a>
-                                        <!-- /.text-decoration-none text-light --></li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">DC</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">MAD Magazine</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">DC Kids</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">DC Universe</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="text-decoration-none text-light">DC Power Visa</a>
+                                    </li>
                                 </ul>
                                 <!-- /.list-unstyled -->
                             </div>
